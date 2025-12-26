@@ -1,0 +1,7 @@
+{
+  "name": "calorix",
+  "description": "An intelligent nutrition tracking application that uses AI to recognize food from photos, helping users easily monitor their calorie and macronutrient intake. It offers extreme personalization, a clean interface, and smart insights to achieve health goals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
